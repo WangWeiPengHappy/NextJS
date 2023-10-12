@@ -10,3 +10,5 @@ Learn nextjs following its official document.
 
 ## NextJS
 [NextJS doc](https://nextjs.org/learn/foundations/how-nextjs-works)
+
+next/link
